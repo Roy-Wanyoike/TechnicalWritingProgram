@@ -1,10 +1,11 @@
-<div>
-<h3>Hello Again? Welcome to my Home</h3>
+<div align="center">
+ <h3>Hello Again? Welcome to my Technical Writing Hub</h3>
+ <img src="https://media.giphy.com/media/gHGKKgH0SfW9otLFrv/giphy.gif" width="200px"/>
 </div>
 
 # Paying Technical Writing Program
 
-When you code you understand, Sometimes its good to share with others outside here to let them understand better. While others do it as a side hustle others do it as a side hustle. This also builds a chance to grow ones skills whilst making income from it. I have made an effort to generate a list of sites paying technical writing for you. For non-technical sites, have a look at [](www.youngsharktechnologies.com/technical-writing-programme).
+When you code, you understand; sometimes its good to share with others outside here to let them understand better. While others do it as a side hustle others do it as a side hustle. This also builds a chance to grow ones skills whilst making income from it. I have made an effort to generate a list of sites paying technical writing for you. For non-technical sites, have a look at [](www.youngsharktechnologies.com/technical-writing-programme).
 
 ## Sites or Companies paying technical writers 
  - [Abstract API](https://www.abstractapi.com/write-for-us) - $100 per article.
