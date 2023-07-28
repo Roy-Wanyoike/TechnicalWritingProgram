@@ -6,7 +6,7 @@
 
 # Paying Technical Writing Program
 
-When you code, you understand; sometimes its good to share with others outside here to let them understand better. While others do it as a side hustle others do it as a side hustle. This also builds a chance to grow ones skills whilst making income from it. I have made an effort to generate a list of sites paying technical writing for you. For non-technical sites, have a look at [](www.youngsharktechnologies.com/technical-writing-programme).
+When you code, you understand it better. Sometimes its good to share with others outside here to let them understand some concept, that's where technical writing comes in now. While others do it as a side hustle others do it as a side hustle to sustain their living. Technical Writing gives one a chance to grow ones skills whilst making income from it. I have made an effort to generate a list of sites paying technical writing for you. For non-technical sites, have a look at [](www.youngsharktechnologies.com/technical-writing-programme).
 
 ## Sites or Companies paying technical writers 
  - [Abstract API](https://www.abstractapi.com/write-for-us) - $100 per article.
