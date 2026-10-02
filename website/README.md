@@ -22,7 +22,7 @@ vercel --prod
 
 ### One-click button for the README
 ```markdown
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Roy-Wanyoike/TechnicalWritingProgram&project-name=tech-writing-programs&repository-name=TechnicalWritingProgram)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Roy-Wanyoike/Technical-writing-platforms&project-name=tech-writing-programs&repository-name=Technical-writing-platforms)
 ```
 (Set "Root Directory" to `website` in the clone dialog.)
 
