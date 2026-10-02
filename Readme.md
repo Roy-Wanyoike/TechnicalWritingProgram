@@ -37,7 +37,7 @@ four community lists, and direct checks of each program page. Dead links pruned,
 ## 🌐 Browse it as a website
 
 This list also ships as a **fast, zero-dependency website** with instant search, pay-sorted
-cards, status filters and dark mode — ready to deploy on Vercel from the [`website/`](website/) folder.
+cards, status filters and dark mode.
 
 [Technical Writing Platforms](https://technicalwritingsites.vercel.app)
 > Prefer reading here? Everything is below — the website simply adds search & filters.
