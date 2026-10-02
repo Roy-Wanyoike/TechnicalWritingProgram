@@ -7,11 +7,19 @@ No build step. No framework. Deploy anywhere static files are served.
 
 ## Deploy to Vercel (60 seconds)
 
+> **Zero-config:** the repo root has a `vercel.json` that points Vercel at
+> `website/` automatically — importing the repo and clicking Deploy is enough.
+
 ### Option A — Dashboard
 1. Push this repo to GitHub (already done if you're reading this in the repo).
 2. Go to [vercel.com/new](https://vercel.com/new) and import the repo.
-3. Set **Root Directory** to `website`.
+3. Leave all settings at their defaults — **or** set **Root Directory** to `website` (both work).
 4. Click **Deploy**. Done — you'll get a `your-repo.vercel.app` URL.
+
+> **Already deployed and seeing a 404?** Your project was created before the
+> root `vercel.json` existed. Either push/redeploy to pick it up, or go to
+> *Project → Settings → General → Root Directory*, set it to `website`, save,
+> then hit **Redeploy** from the Deployments tab.
 
 ### Option B — CLI
 ```bash
@@ -22,9 +30,9 @@ vercel --prod
 
 ### One-click button for the README
 ```markdown
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Roy-Wanyoike/Technical-writing-platforms&project-name=tech-writing-programs&repository-name=Technical-writing-platforms)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Roy-Wanyoike/Technical-writing-platforms&project-name=tech-writing-programs&repository-name=Technical-writing-platforms&root-directory=website)
 ```
-(Set "Root Directory" to `website` in the clone dialog.)
+The `root-directory=website` parameter pre-configures the clone dialog for you.
 
 ## Updating data
 
