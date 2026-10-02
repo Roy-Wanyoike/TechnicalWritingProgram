@@ -10,7 +10,7 @@ When you code, you understand it better. Sometimes it's good to share with other
 
 > **Status key:** ✅ Active &nbsp;|&nbsp; ⏸️ Paused/Check first &nbsp;|&nbsp; ❌ Closed
 >
-> **Last audited: October 2026** — every link was re-checked, dead programs moved to a separate section so you don't waste time applying, and new programs (Keploy, Percona, Retool, Permit.io, MetalBear, Zenduty, Medusa, Mem0, QuickNode, MagicPod, Better Stack and more) were added from a global search and a full review of the issues and pull requests on [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms).
+> **Last audited: October 2026** — every link was re-checked, dead programs moved to a separate section so you don't waste time applying, and new programs (Keploy, Percona, Retool, Permit.io, MetalBear, Zenduty, Medusa, Mem0, QuickNode, MagicPod, Better Stack and more) were added from a global search and a full review of the issues and pull requests
 
 ## ✅ Active Sites or Companies paying technical writers
 
