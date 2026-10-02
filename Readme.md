@@ -6,295 +6,314 @@
 
 # Paying Technical Writing Program
 
-When you code, you understand it better. Sometimes its good to share with others outside here to let them understand some concept, that's where technical writing comes in now. While others do it for fun and to build their profile others do it as a side hustle to sustain their living. Technical Writing gives one a chance to grow ones skills whilst making income from it. I have made an effort to generate a list of sites paying technical writing for you. For non-technical sites, have a look at [](www.youngsharktechnologies.com/technical-writing-programme).
+When you code, you understand it better. Sometimes it's good to share with others outside here to let them understand some concept, that's where technical writing comes in now. While others do it for fun and to build their profile others do it as a side hustle to sustain their living. Technical Writing gives one a chance to grow ones skills whilst making income from it. I have made an effort to generate a list of sites paying technical writing for you. For non-technical sites, have a look at [Who Pays Writers](https://whopayswriters.com).
 
-## Sites or Companies paying technical writers 
- - [Abstract API](https://www.abstractapi.com/write-for-us) - $100 per article.
-  > Technical content and tutorials related to the APIs in their catalogue.
-  
-- [Adeva](https://adevait.com/write-for-us) - $200+ per article
-  > Technical guides, thought leadership content and resources for Engineering Managers.
+> **Status key:** ✅ Active &nbsp;|&nbsp; ⏸️ Paused/Check first &nbsp;|&nbsp; ❌ Closed
+>
+> **Last audited: October 2026** — every link was re-checked, dead programs moved to a separate section so you don't waste time applying, and new programs (Keploy, Percona, Retool, Permit.io, MetalBear, Zenduty, Medusa, Mem0, QuickNode, MagicPod, Better Stack and more) were added from a global search and a full review of the issues and pull requests on [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms).
 
-- [Agora](https://www.agora.io/en/agora-content-contributor-program/) - $250 per article
-  > Technical content and tutorials for the Agora community.
+## ✅ Active Sites or Companies paying technical writers
 
-- [Airbyte](https://airbyte.com/write-for-the-community) - $900 per article of about 1500 words.
+- [Airbyte](https://airbyte.com/write-for-the-community) - $300-$500 per article (+ possible bonus)
   > Data engineering tutorials, tutorials that cover Airbyte use cases and features.
 
-- [Alan AI](https://forms.gle/VJ3gQ2tNWqd3pLq97) - $75-$200 per article.
-  > Technical content, tutorials, building demo projects, and how-to guides that includes Alan AI platform.
-
-- [Ambassador Labs](https://www.getambassador.io/write-for-us/) - $300 per article
-  > Technical tutorials, guides, opinions and case studies on Kubernetes and open source cloud native technologies.
+- [Amezmo](https://www.amezmo.com/write-for-amemzo) - $300 per article
+  > Technical tutorials, guides, opinions and case studies on PHP hosting and general web development.
 
 - [Ant Media](https://antmedia.io/write-for-us-looking-for-technical-authors/) - $50-$150 per piece
-  > Articles on streaming technologies and trends (WebRTC, RTMP Protocol)
+  > Articles on streaming technologies and trends (WebRTC, RTMP Protocol).
 
 - [AppSignal](https://blog.appsignal.com/write-for-us) - $300 per article
   > Cover topics in full-stack web development.
 
+- [Appsmith](https://www.appsmith.com/blog/launching-the-appsmith-writers-program) - $200-$400 per piece
+  > The Appsmith Writers Program pays for blog posts, tutorials, templates and videos on low-code/internal tools. Pitch via content@appsmith.com.
+
 - [appypie](https://www.appypie.com/guest-post) - Up to $100 per piece
   > Write blogs on a wide range of topics.
 
-- [Arctype](https://arctype.com/blog/contribute/) - $100+ per article
-  > Technical guides, case studies, and thought leadership on SQL and Databases.
+- [Auth0 (Apollo Program)](https://auth0.com/apollo-program) - Up to $450 per article
+  > Write on a broad scope of topics: Identity & Security, Mobile (Native & Cross Platform), Python, Electron, Java, and .NET. Also see their [guest authors page](https://auth0.com/guest-authors).
 
-- [Argot](https://www.argot.dev/writers) - Up to $600 per article
-  > Frontend development, backend development, data science, and DevOps. 
+- [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40-$150 per article (also mini-articles and improvements)
+  > Focused mainly on the Java ecosystem, but also Kotlin, Scala, Linux, and general Computer Science. Practical, code-focused, to-the-point tutorials.
 
-- [ Auth0's](https://auth0.com/apollo-program) - Up to $450 per article
-  > Write on a broad scope of topics: Identity & Security Mobile (Native & Cross Platform), Python, Electron, Java, and .NET.
+- [Bejamas](https://bejamas.io/blog/write-for-us) - Pay per piece (see guidelines)
+  > Write about modern web development tools, Jamstack and the frontend ecosystem.
 
-- [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40 - $150 (for articles; they accept also mini-articles and improvements)
-  > Baeldung is a technical site focused mainly on the Java ecosystem, but also Kotlin, Scala, Linux, and general Computer Science – with a reach of about 10M page views per month. We publish tutorials and how-to articles – with a very practical, code-focused, and to-the-point style.
+- [Better Stack](https://betterstack.com/community/write-for-us) - ~$300 per article
+  > Technical tutorials and guides on uptime monitoring, incident management, logging, DevOps and PHP/Ruby/Elixir development.
 
-- [Chainstack Developer Hub](https://github.com/chainstack/developer-hub-content) - $200
-  > Web3 technical content with code. Tutorials, guides, and expository content.
-  
+- [Bugfender](https://bugfender.com/blog/write-for-us/) - Up to $500 per article
+  > Mobile development, frontend development and other dev-focused content. Tutorials, guides and tech articles. (Places can fill up — check the page.)
+
 - [CircleCI](https://circleci.com/blog/guest-writer-program/) - $350-$600 per piece
-  > Technical tutorials with code. Pick from a list of possible articles.
+  > Technical tutorials with code about CI/CD, DevOps and automation. Pick from a list of possible articles.
 
-- [Clubhouse.io](https://clubhouse.io/clubhouse-write-earn-give-program/) - Up to $600 per piece
-  > Technical tutorials and how-to guides. Pick from a list of possible articles.
+- [Civo](https://www.civo.com/write-for-us) - $200-$500 per piece
+  > Write a tutorial or how-to guide about Kubernetes and cloud native technologies and get paid.
 
-- [Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034) - $100 (Quick tip) $250 (Tutorial)
+- [Code Tuts+](https://code.tutsplus.com/call-for-authors-write-for-tuts--cms-22034a) - $100 (Quick tip) / $250 (Tutorial)
   > Technical focused articles. Pick from a list of possible articles.
-
-- [Code Magic](https://blog.codemagic.io/write-for-codemagic-ci-cd/) - Applications are currently closed.
-  > Technical focused articles.Specific on Flutter.
 
 - [Codiga](https://www.codiga.io/write-for-us/) - $100-$150 per piece
   > Technical articles focused on code quality.
+
 - [CodingSight](https://codingsight.com) (Email [marketing@devart.com](mailto:marketing@devart.com)) - $100-$250 per piece
-  > Technical articles on SQL Server, PostgreSQL, .NET, Oracle, and Azure.
-- [ContentLab.io](https://contentlab.com/writeforus/) - Up to $500 per piece
-  > Articles on the Cloud, DevOps, Containers, AI/ML, Security, Web, and Gaming spaces.
-  
+  > Technical articles on SQL Server, PostgreSQL, .NET, Oracle, and Azure. Applications are by email, there is no public programme page.
+
 - [Content Turbine](https://www.contentturbine.com/freelance) - $150+ per piece
   > Technical content agency. How-to articles, developer guides, and product use cases are among the specialties.
 
-- [Couchbase](https://www.couchbase.com/community/community-writers-program) - $200 per piece
-  > Content area experts can submit tutorials and blog content.
+- [Corellium](https://www.corellium.com/contributor-program) - $500-$1,500 per article
+  > Technical tutorials, guides, opinions and case studies on mobile application security and reverse engineering.
 
-- [CSS Tricks](https://css-tricks.com/guest-posting/) - Around $250 per piece (depends on the length, research and audience)
-  > Technical focused articles.Specific on Flutter.
-- [Draft](https://draft.dev/#write) - Pays $200-$400 per piece
-  > Technical content production agency that works with many clients.
-- [Dev Spotlight](https://www.devspotlight.com/jobs/) - $300-$500 per piece depending on length and content
-  > Technical content production agency that works with many clients.
+- [CSS-Tricks](https://css-tricks.com/guest-writing-for-css-tricks/) - $300 per article (up to $400 for complex topics)
+  > Anything related to development and design. Now owned by DigitalOcean; payable via PayPal or DigitalOcean credit.
 
-- [Digital Ocean](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece
+- [DigitalOcean (Write for DOnations)](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece
   > Technical tutorials with code. Not limited to Digital Ocean products.
 
-- [Dockship](https://dockship.io/articles) - $20
-  > Machine Learning and Data Science. You need to be signed in to be able to create content.
-
-- [Dolby.io](https://go.dolby.io/community-writing) - $100-$500 per piece
-  > Technical content involving use of Dolby.io APIs and/or SDKs.
-
-- [Draft.dev](https://draft.dev/write) - Pays $315-$578 per piece
-  > Technical content agency that works with many clients. Writers who are accepted will get an email every week and access to a writer portal with dozens of topics they can choose from.
-- [DZone](https://dzone.com/writers-zone) - Waiting for details
-  > Broad coverage of development topics, but with heavy Java content, working hard to push into new topics and channels.
+- [Draft.dev](https://draft.dev/write) - $315-$578 per piece
+  > Technical content agency that works with many clients. Writers who are accepted get weekly topic emails and access to a writer portal.
 
 - [Egghead](https://egghead.io/write-for-egghead) - Pay unknown
   > Intermediate to advanced articles covering topics on web development.
 
-- [Fauna](https://github.com/fauna/write-with-fauna) - Up to $700 per piece
-  > Content focused on technical education around serverless development and FaunaDB.
+- [Every Developer](https://everydeveloper.com/join/) - $300+ per article
+  > Technical tutorials, guides, opinions and case studies on software development. (Community reports the application form has been closing intermittently — check the page.)
 
-- [Hashnode Web3 Blog](https://web3.hashnode.com/contribute-to-the-web3-blog) - $250-$350 per article
-  > Technical content and tutorials related to Web3.
-
-- [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece
+- [Hasura](https://hasura.io/blog/the-hasura-technical-writer-program/) - Up to $300 per piece
   > Technical tutorials with code about Hasura or GraphQL.
-- [Heartbeat by Comet](https://heartbeat.comet.ml/call-for-contributors-fee7f5b80f3e) - [over $150](https://www.youtube.com/watch?v=e_B0vt-eWPw) per piece
-  > Technical content related to Trends in machine learning research, explorations of new tools and libraries and data science.
 
-- [Hit Subscribe](https://www.hitsubscribe.com/apply-to-be-an-author/) - $100 per piece, $200 for 2x length and ghostwritten articles (Special articles).
+- [Hit Subscribe](https://www.hitsubscribe.com/apply-to-be-an-author/) - $100 per piece, $200 for 2x length and ghostwritten articles
   > Technical content production agency that works with many clients.
-  
+
 - [Honeybadger](https://www.honeybadger.io/blog/write-for-us/) - From $500 per piece
-  > Ruby and Elixir tutorials with code. Pick from a list of possible articles.
+  > In-depth blog posts on Ruby, PHP or JavaScript, and error-monitoring topics.
 
 - [Hygraph](https://hygraph.com/write-for-hygraph) - Up to $300 per piece
   > Technical tutorials or blogs with code about Hygraph or GraphQL with Jamstack or tooling of your choice.
-- [In Plain English](https://plainenglish.io/blog/how-to-write-for-in-plain-english) - From $100 per piece and more
-  > Technical tutorials or blogs with code about Javascript, Python and web technologies
 
-- [Invertase](https://invertase.io/authors-program) - Up to $250 per piece and up to $100 voucher for author of the month
-  > Technical tutorials or blogs with code about Dart & Flutter, Firebase, Firebase extensions, Software development, open source and web technologies
-- [LambdaTest](https://www.lambdatest.com/lambdatest-write-for-us) - $200 per article
-  > Write about web automation testing, mobile app testing, CI/CD and DevOps, responsive testing, real time testing, cross browser testing, web development and CSS, thought leadership.
+- [In Plain English](https://plainenglish.io/writing/how-to-write-for-in-plain-english) - From $100 per piece and more
+  > Technical tutorials or blogs with code about JavaScript, Python and web technologies.
 
-- [Linode](https://www.linode.com/docs/contribute/) - Up to $300 per piece
-  > Technical tutorials with code on Linux or Linode.
+- [IOD Content Agency](https://iamondemand.com/iod-talent-network/) - $300-$400 per article
+  > Technical tutorials, guides, opinions and case studies on DevOps, cloud, data, software development and AI/ML.
 
-- [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
-  > Technical tutorials with code. Not limited to LoginRadius products.
+- [Keploy](https://www.writers.keploy.io) - Pay per piece (see program page)
+  > Keploy's Writers Program: write about API testing, test automation and open source, and get paid + community visibility.
 
-- [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/) - Up to $350 per piece
-  > Technical tutorials with code. Write about anything frontend.
-- [Magalix](https://www.magalix.com/the-sac-writers-club) - $200+ per piece
-  > Technical content and tutorials about DevSecOps, Cloud security, Kubernetes security.
+- [Kestra](https://kestra.io/write-for-us) - $300+ per article
+  > Technical tutorials, guides, opinions and case studies on data orchestration and workflow optimization.
 
-- [Magic](https://magic-fortmatic.typeform.com/to/Wgzsocor) - Up to $300 per piece
-  > Technical tutorials on how to use Magic.link
+- [LoginRadius](https://www.loginradius.com/blog/guest-blog) - Previously up to $200 per piece
+  > The write-for-us page is live and accepting applications, but it no longer mentions payment anywhere — confirm compensation before writing.
+
+- [Magic](https://form.typeform.com/to/Wgzsocor) - Up to $300 per piece
+  > Technical tutorials on how to use Magic.link.
+
+- [MagicPod](https://frost-act-be2.notion.site/MagicPod-Writers-Program-ea85c41d617943559a351f85c3add632) - Up to $200 per piece
+  > Articles on various software testing topics: web automation, mobile app testing, testing strategies, thought leadership and cross-browser testing.
 
 - [Make Use Of](https://www.makeuseof.com/contributor/) - $120 per piece with performance benefits
   > Tutorials and features about consumer apps and software products.
 
-- [Mixster](https://mixstersite.wordpress.com/2019/05/24/mixster/#more-2253)
-
 - [Mattermost](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/community-content-program) - Up to $500 per article
   > Beginner to intermediate technical content including introductions and guides for useful libraries, programming environments, languages, and tech stacks.
+
+- [mcp-agent (LastMile AI)](https://forms.gle/MALE8ju94QWmYWVdA) - $75-$200 per article
+  > Technical content, tutorials, and building demo projects that include mcp-agent, the open-source agent framework from LastMile AI (the programme previously listed as AIConfig).
+
+- [Medusa](https://medusajs.notion.site/Write-for-us-74a2bf43b4ce43eeba200382f599321a) - Pay per piece (see application)
+  > Write for us: tutorials and deep dives on Medusa, the open-source commerce engine (Node.js/React ecosystem).
+
+- [Mem0](https://mem0ai.notion.site/2edf22c70c9080f7b366d6481e2a8869?pvs=105) - Up to $300 based on experience
+  > Technical tutorials and deep dives into Mem0 and AI memory platforms. The application form asks you to name your own per-article rate.
+
+- [MetalBear](https://metalbear.co/writers-program/) - Up to $300 per piece
+  > Technical tutorials on cloud development, Kubernetes, and their open-source tool mirrord.
 
 - [MSSQLTips](https://www.mssqltips.com/contribute/) - $160 per tip
   > Get paid to write about SQL Server and related technologies.
 
-- [Nanonet](https://nanonets.com/blog/write-for-us/) - Pay unknown
+- [Nanonets](https://nanonets.com/blog/write-for-us/) - Pay unknown
   > Get paid to write about your favorite machine learning topics.
 
-- [Neptune](https://neptune.ai/write-for-us) - $300-$600 per article.
-  > Technical articles, how-to guides and tutorials on machine learning and data science.
+- [Neverinstall](https://blog.neverinstall.com/neverinstall-technical-writer-program/) - $100-$250 per article
+  > Contribute guides, blogs and tutorials about cloud computing and cutting-edge technologies.
 
-- [Neverinstall](https://blog.neverinstall.com/neverinstall-technical-writer-program) - $100-$250 per article.
-  > Neverinstall invites developers to contribute to our knowledge library and develop content for the tech community. As we work on cutting-edge technologies, we call upon enthusiasts and passionate software developers to help us spread awareness through guides, blogs, tutorials, and more.
-
-- [Nimblebox.ai](https://nimblebox.ai/technical-writer-program) - $100 per article.
-  > The NimbleBox Technical Writer Program is a way for you to support the future of MLOps by writing technical articles.
 - [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
   > Technical tutorials and demos using Okta's products.
 
-- [Okteto](https://okteto.com/tech-writer/) - $200 per article
-  > Technical content and tutorials about Okteto, Kubernetes, and Cloud-Native Applications.
+- [Percona Community](https://percona.community/blog/2026/05/22/write-for-percona-community/) - Paid (rate not published)
+  > The Percona Community Writers Program publishes technical posts from people actually using the tools — DBAs, developers and engineers. Topics: MySQL, PostgreSQL, MongoDB, MariaDB, Valkey, Percona Toolkit, PMM and Operators. They publish it and pay you.
 
-- [OneSignal](https://onesignal.com/guest-author-program) - Up to $350 per article
-  > Technical content (blog post, videos) that align with OneSignal's content roadmap.
-  
-- [OpenReplay](https://medium.com/stackanatomy/write-for-us-ad11489bd7c3) - Up to $250 per article
-  > We’re always looking for talented authors that are willing to cover any and all topics that are of interest to front-end developers.
-- [Paperspace](https://blog.paperspace.com/write-for-paperspace/) - $200-$300 per piece
-  > Get paid to write articles about machine learning, data science, and more.
+- [Permit.io](https://io.permit.io/permit-content) - $400 per article
+  > Content Creation Program: implement Permit.io into a demo application of your choice, write about it, and get paid per published article.
 
-- [Plural](https://www.plural.sh/blog/plurals-content-contribution-program/) - $300 per 1,000 word article
-  > Get paid to write articles on, what you have built with Plural, application-specific deployment guides, and architectural comparisons of popular open-source tools against each other.
-- [Postmark](https://postmarkapp.com/write-for-us) - $200-$300 per piece
-  > Applications are currently closed.
 - [PHP Architect](https://www.phparch.com/editorial/write-for-us/) - $175 per piece
-  > Thought leadership and technical articles about PHP.
-- [Rancher](https://rancher.com/writing-program/roles/writer/) - $300 per piece
-  > Writing about devops, Kubernetes, and Rancher.
+  > Thought leadership and technical articles about PHP. They do not accept guest bloggers for the online publication — pitch article or book concepts for the monthly magazine instead.
+
+- [Plural](https://www.plural.sh/blog/plurals-content-contribution-program/) - $300 per 1,000-word article
+  > Write about what you have built with Plural, application-specific deployment guides, and architectural comparisons of popular open-source tools.
+
+- [QuickNode](https://quicknode.notion.site/quicknode/QuickNode-Authorship-Program-d808a87ee50b48c9a16ed19b13e09115) - $350 per piece
+  > Get paid to write articles about cryptocurrencies and web3/blockchain.
 
 - [Real Python](https://realpython.com/write-for-us/) - Up to $300 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
-- [Refine](https://refine.dev/docs/contributing/) - $100-$150 per article
-  > They accept articles covering popular frontend technologies and UI enhancement. Articles         covering Refine's product and its applications.
-   
-- [RunX](https://blog.runx.dev/announcing-runxs-technical-writer-program-ea3790f0a80) - $150 for opinion pieces around DevOps and $200 for Tutorials
-  > Get paid to write about DevOps, cloud infrastructure, and Opta.
-  
+- [Retool](https://retool.com) - $500-$1,000 per piece (pitch via [content@retool.com](mailto:content@retool.com))
+  > Write about internal tools, databases, and building apps with Retool. There is no public program page — pitch your topic by email.
+
 - [ruttl](https://ruttl.com/blog/write-for-us/) - INR 1 (~$0.012) per word
   > Indian writers only. Writers can choose from a list of topics on UI/UX, web design and web development.
 
-- [Sanity.io](https://www.sanity.io/guest-authorship) - Up to $250 per piece
-  > Technical focused articles and how-to guides. Pick from a list of possible articles.
+- [Sanity](https://www.sanity.io/guest-authorship) - Compensation discussed per project
+  > Guest Authorship Program: technical content about Sanity, structured content and the content platform ecosystem.
 
-- [Section.io](https://github.com/section-io/engineering-education)
-  > Engineering education blog where Computer Science university students may contribute content for pay.
+- [SaturnCloud](https://saturncloud.io/write-for-us/) - $300+ per article
+  > Technical tutorials, guides, opinions and case studies on Python and data science.
 
 - [Semaphore](https://semaphoreci.com/resources/write-with-us) - Up to $500 per piece + 50% bonus for high page view count
-  > Technical articles about news, tools, libraries, CI/CD, development and culture
-
-- [Simple Talk](https://www.red-gate.com/simple-talk/write-for-us/) - $350 per article
-  > Technical articles focused on SQL Server, MySQL, and Postgres.
-
-- [SitePoint](https://sitepoint.typeform.com/to/DMmYfn) - $250 per article
-  > Broad coverage of development, design and the business ideas behind them. The JavaScript and PHP channels have the best traffic.
+  > Technical articles about news, tools, libraries, CI/CD, development and culture.
 
 - [SigNoz](https://signoz.io/technical-writer-program/) - $150 per article
-  > Product tutorials related to SigNoz, and technical content related to topics in our domain like opentelemetry, distributed tracing, application performance monitoring, etc.
- 
-- [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) - $200 to $250 per article
+  > Product tutorials related to SigNoz, and technical content on OpenTelemetry, distributed tracing, application performance monitoring, etc.
+
+- [Simple Talk (Redgate)](https://www.red-gate.com/simple-talk/write-for-us/) - $350 per article (rate no longer published, but Redgate confirms it pays)
+  > Technical articles focused on SQL Server, MySQL, and Postgres.
+
+- [SitePoint](https://form.typeform.com/to/DMmYfn) - $250 per article
+  > Broad coverage of development, design and the business ideas behind them. The JavaScript and PHP channels have the best traffic.
+
+- [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) - $200-$250 per article
   > Technical focused articles. No limitation on topics.
 
 - [Software Engineering Daily](https://softwareengineeringdaily.com/write/) - Pay unknown
-  > We explain how software is built. We explain how software has gotten us to where we are, and how new software will shape our future.
-  
-- [Software Testing Help](https://www.softwaretestinghelp.com/opportunity-freelance-qa-testers/) - $200 -$600 per article.
+  > We explain how software is built, how it has gotten us to where we are, and how new software will shape our future.
+
+- [Software Testing Help](https://www.softwaretestinghelp.com/become-an-author/) - $200-$600 per article
   > Create tutorials on a wide range of topics about Quality Assurance (QA) testing.
-
-- [Solace](https://solace.com/scholars/) - $300 per piece
-  > Articles must feature Solace technologies.
-
-- [Soshace](https://blog.soshace.com/write-for-us/) - $100 per piece
-  > Technical tutorials with code. Pick from a list of possible articles.
-
-- [SpinupWP](https://spinupwp.com/writers-program/) - $500-$1,000 per piece
-  > Technical articles on systems administration, caching, WordPress hosting, DevOps, site deployment and other server & WordPress-related topics. New articles, update existing articles or video tutorials/walkthroughs.
 
 - [SQLShack](https://www.sqlshack.com/about-us/) - $200 per piece
   > Technical focused articles on SQL Server and related technologies.
 
-- [StackAbuse](https://stackabuse.com#work-with-us) - $100 - $300+ per article.
+- [StackAbuse](https://stackabuse.com#work-with-us) - $100-$300+ per article
   > Technical articles and courses on Python, JavaScript, Java, and Machine Learning topics.
 
-- [StackOverflow](https://stackoverflow.blog/2020/01/27/blog-contributor-guidelines/?cb=1) - $500 per piece
-  > Software engineering focused articles. No tutorials and should be of interest to a wide range of developers.
-
-- [Storyblok](https://www.storyblok.com/tp/guest-writing-terms) - $200 per piece
-  > Articles across severless tech, perfomance optimization, Jamstack and Headless CMS, etc.
-  
 - [Strapi](https://strapi.io/write-for-the-community) - Up to $200 per piece
-  > Articles or tutorials with code covering use-cases, solutions and projects built with Strapi that include Vue, Open Source, JavaScript, GraphQL, Jamstack, React. Pick from a list of possible articles or pitch your own.
+  > Articles or tutorials with code covering use-cases, solutions and projects built with Strapi — Vue, Open Source, JavaScript, GraphQL, Jamstack, React. Pick from a list or pitch your own.
 
-- [TakeShape](https://www.takeshape.io/jobs/contributing-writer/) - Up to $300 per piece
-  > Web dev tutorials with code. General frontend topics including, React, JavaScript, GraphQL, Jamstack. Pick from a list of possible articles or pitch your own.
-
-- [Tech Beacon](https://techbeacon.com/write) - $400 per piece
-  > Broad coverage of development, DevOps, QA and security.
 - [TechWell](https://www.techwell.com/techwell-submission-guidelines) - $200 per piece
   > A wide variety of technical and business content is considered.
- 
-- [TheBotForge](https://www.thebotforge.io/guest-authors/) - up to £200 per article
-  > Technical tutorials, guides and case studies on conversational AI and NLP/NLP/Machine Learning.
-- [TestDriven.io](https://testdriven.io/blog/) - $300-$500 per guest post
+
+- [TestDriven.io](https://testdriven.io/join-testdriven/) - $300-$500 per guest post
   > Web development tutorials designed to teach critical skills needed to test, launch, scale, and optimize applications.
 
-- [Topcoder](https://www.topcoder.com/thrive/articles/Submitting%20a%20Thrive%20Article) - $75 per piece
-  > Tutorials, workshops and articles are accepted. Get paid to write about Competitive Programming, Data Science, Design, Development, QA and/or Gig Work.
+- [TestSigma](https://testsigma.com/testsigma-writers-program) - $300+ per article
+  > Technical tutorials, guides, opinions and case studies on testing automation.
+
+- [TheBotForge](https://www.thebotforge.io/guest-authors/) - Up to £200 per article
+  > Technical tutorials, guides and case studies on conversational AI, NLP and Machine Learning.
 
 - [Tutorialspoint](https://www.tutorialspoint.com/about/tutorials_writing.htm) - Up to $500 per piece
   > In-depth tutorials on technical and business topics.
 
-- [Twilio](https://www.twilio.com/voices) - $650 per piece
-  > Technical tutorials that focuses on encouraging developers to build the future of communications.
-
 - [TypingDNA](https://www.typingdna.com/guest-author-program) - Up to $500 per piece
-  > Technical articles/tutorials related to TypingDNA.
-- [Vonage](https://developer.nexmo.com/spotlight/) - $500 per piece
-  > Technical tutorials and general pieces on programming
-  
-- [Vultr](https://www.vultr.com/docs/vultr-docs-program-guidelines) - Up to $300 per piece
-  > most topic take a look on Vultr document
+  > Technical articles/tutorials related to behavioral biometrics and TypingDNA.
 
-- [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
-  > Wordpress tutorials and articles.
-
-- [Webiny](https://www.webiny.com/docs/write-with-webiny/write-with-webiny) - up to $300 per piece
-  > Articles & tutorials with code covering uses of and projects built with Webiny. You could include things like Gatsby, Next.js, React, Vue, Svelte, GraphQL, Jamstack, Open Source, and Serverless. Join our community to pick from a list of articles we're looking for, or pitch your own.
+- [Vultr](https://docs.vultr.com/platform/vultr-creator-program) - Up to $800 per article (up to $1,600 for videos)
+  > Content on Cloud Native Technologies (K8s, IaC, etc.), Linux, Machine Learning and more. Sign up on the [Vultr Creators Dashboard](https://creators.vultrdevrel.com/) to get started.
 
 - [WebWash](https://www.webwash.net/write-for-us/) - $50-$175 per piece
-  > Tutorials on drupal.
+  > Tutorials on Drupal. Rates: $50 for a quick tutorial, $75 for a general tutorial and $175 for a long tutorial.
 
+- [Zenduty](https://zenduty.notion.site/zenduty/Zenduty-s-Guest-Writing-Program-d7ff8f7fae2b42329ded86ebb366ac0f) - Rewarded (rate varies, see program page)
+  > Guest Writing Program: articles about SRE, DevOps and incident management shared to the Zenduty blog.
+
+## ⏸️ Paused / Confirm before applying
+
+These pages may still be live, but the programs are paused, changed their model, or were reported as not accepting — always verify on the page before writing.
+
+- [Adam the Automator](https://adamtheautomator.com/friends/) - Up to $200 per article
+  > ATA Learning seeks instructors of all experience levels — but new author applications have been on hold.
+
+- [Argot](https://www.argot.dev/writers) - Up to $600 per article
+  > Frontend, backend, data science and DevOps. Page is back online but they were reported as not accepting applications (Aug 2025) — check first.
+
+- [Deepchecks](https://deepchecks.com/deepchecks-technical-writers-program/) - Pay per piece
+  > Community writers program for LLM evaluation and ML testing content — status uncertain at last check.
+
+- [Earthly](https://earthly.dev) - $350 per article (pitch via [content@earthly.dev](mailto:content@earthly.dev))
+  > Build tools, CI/CD and containers. Program paused — pitch by email.
+
+- [Okteto](https://okteto.com/tech-writer/) - $200 per article
+  > Technical content about Okteto, Kubernetes, and Cloud-Native Applications. Page is live again, but the program was listed as broken/removed in 2025 — verify before applying.
+
+- [OpenReplay](https://medium.com/stackanatomy/write-for-us-ad11489bd7c3) - Up to $250 per article
+  > Frontend-focused content on their Medium publication (StackAnatomy) — they changed their acceptance process, so check the latest guidelines.
+
+- [Refine](https://refine.dev/docs/contributing/) - $100-$150 per article
+  > Articles covering popular frontend technologies and Refine's product. Was reported as not accepting new authors — reconfirm.
+
+- [Solace Scholars](https://solace.com/scholars/) - $300 per piece
+  > Articles must feature Solace technologies. The page states "Submissions Paused – Program Under Construction".
+
+- [Stack Overflow Blog](https://stackoverflow.blog/2020/01/27/blog-contributor-guidelines/) - $500 per piece
+  > Software engineering focused articles (no tutorials). The guidelines carry an editor's note: not currently accepting unsolicited pitches.
+
+- [TestMu AI (formerly LambdaTest)](https://www.testmuai.com/lambdatest-write-for-us/) - No longer cash-paid
+  > The guest blogger program is still open, but rewards are now swag, vouchers, giveaways and product access rather than a per-article fee.
+
+- [Twilio Voices](https://www.twilio.com/en-us/voices) - $650 per piece
+  > Technical tutorials about communications APIs. Not accepting new applications for Developer Voices at this time — check back.
+
+- [Vonage Developer Spotlight](https://learn.vonage.com/spotlight/) - Up to $500 per article
+  > Advanced articles on using Vonage APIs. Status uncertain at last check — verify the page is still open.
+
+## ❌ Closed / Removed (so you don't waste your time)
+
+- Abstract API — program page now 404
+- Alan AI — application form dead
+- Arctype — domain dead (was SQL/database content)
+- Adeva — removed from active lists (Jan 2026)
+- Clubhouse.io — program removed (2022)
+- ContentLab.io — site inaccessible (2025)
+- Couchbase Community Writers — link dead (removed Jul 2023)
+- Dev Spotlight — jobs page dead
+- Dolby.io — community writing page dead
+- Doppler — writers program page dead
+- Fauna (Write with Fauna) — program/repo gone after Fauna's shutdown
+- Hashnode Web3 Blog — writer application closed
+- Invertase Authors Program — page dead
+- Linode — became Akamai; contribute page removed
+- LogRocket Guest Authors — not accepting new applicants
+- Magalix SAC Writers Club — site dead
+- Nimblebox.ai — page dead
+- OneSignal Guest Author Program — page dead
+- Paperspace — acquired by DigitalOcean; write-for-us page gone
+- Rancher Writing Program — page dead
+- RunX — company/program gone
+- Section.io Engineering Education — org/repo gone
+- Sourcegraph Writers Program — program page removed
+- Storyblok Guest Writing — page dead
+- TakeShape — company sunset
+- Tech Beacon — site no longer publishing
+- Topcoder Thrive Articles — page dead
+- WPHUB — site dead
+- Webiny — write-with-Webiny docs erroring
+
+## Resources with similar lists
+
+- [Who Pays Technical Writers](https://whopaystechnicalwriters.com/) - crowdsourced rates database
+- [Who Pays Writers](https://whopayswriters.com) - general (non-technical) writing rates
+- [CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - the list this repo is cross-checked against
+- [Awesome Companies Who Pays Technical Writers](https://github.com/tyaga001/Awesome-Companies-Who-Pays-Technical-Writers) - another open-source list
 
 # Wish you all the best
 ### caution: i am not liable to any thing. All I do is collect and combines sites which i find paying and also other people contributions. 
-
-- [www.youngsharktechnologies.com](http://www.youngsharktechnologies.com)
-
-
 
 If you'd like to add an entry, fork the repo, make the change and send over a PR or [get in touch](https://twitter.com/WanyoikeRoy) with me.
 
