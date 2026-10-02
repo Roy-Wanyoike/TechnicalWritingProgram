@@ -309,7 +309,6 @@ These pages may still be live, but the programs are paused, changed their model,
 
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/) - crowdsourced rates database
 - [Who Pays Writers](https://whopayswriters.com) - general (non-technical) writing rates
-- [CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - the list this repo is cross-checked against
 - [Awesome Companies Who Pays Technical Writers](https://github.com/tyaga001/Awesome-Companies-Who-Pays-Technical-Writers) - another open-source list
 
 # Wish you all the best
