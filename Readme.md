@@ -39,8 +39,7 @@ four community lists, and direct checks of each program page. Dead links pruned,
 This list also ships as a **fast, zero-dependency website** with instant search, pay-sorted
 cards, status filters and dark mode — ready to deploy on Vercel from the [`website/`](website/) folder.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FRoy-Wanyoike%2FTechnical-writing-platforms&project-name=tech-writing-programs&repository-name=Technical-writing-platforms&root-directory=website)
-
+[Technical Writing Platforms](https://technicalwritingsites.vercel.app)
 > Prefer reading here? Everything is below — the website simply adds search & filters.
 
 ---
